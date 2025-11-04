@@ -9,8 +9,8 @@ const projects = [
     description: "AI-Powered Web IDE with real-time code execution, OAuth login (Google & GitHub), project templates, Monaco Editor features, and AI chat assistant using local LLMs via Ollama.",
     tech: ["Next.js 15", "TypeScript", "MongoDB", "WebContainers", "Monaco Editor", "NextAuth"],
     github: "https://github.com/kishangupta2023/vide-code-editor.git",
-    demo: "#",
-    status: "In Development"
+    demo: "https://vide-code-editor.vercel.app/",
+    status: "Live"
   },
   {
     title: "TripHeaven",
@@ -42,14 +42,6 @@ const projects = [
     tech: ["React", "REST API", "TailwindCSS"],
     github: "https://github.com/kishangupta2023/Currency-Converter.git",
     demo: "https://currency-converter-blue-five-57.vercel.app/",
-    status: "Live"
-  },
-  {
-    title: "E-Commerce Platform",
-    description: "Full-featured online marketplace with product catalog, shopping cart, checkout flow, and order management. Integrated payment processing and inventory tracking.",
-    tech: ["React", "Node.js", "MongoDB", "Stripe", "Redux"],
-    github: "#",
-    demo: "#",
     status: "Live"
   }
 ];
