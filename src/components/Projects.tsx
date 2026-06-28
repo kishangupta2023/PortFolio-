@@ -13,6 +13,14 @@ const projects = [
     status: "Live"
   },
   {
+    title: "SwiftKart",
+    description: "AI-Powered Web IDE with real-time code execution, OAuth login (Google & GitHub), project templates, Monaco Editor features, and AI chat assistant using local LLMs via Ollama.",
+    tech: ["Next.js 16", "TypeScript", "MongoDB", "NextAuth", "Socket.io", "leaflet","Gemini API"],
+    github: "https://github.com/kishangupta2023/swiftkart",
+    demo: "https://swiftkart-eta.vercel.app/",
+    status: "Live"
+  },
+  {
     title: "TripHeaven",
     description: "Full-stack hotel booking platform enabling users to search, list, and book hotels seamlessly. Integrated secure authentication, real-time bookings, and Stripe payment gateway.",
     tech: ["MongoDB", "Express", "React", "Node.js", "Stripe", "Clerk", "TailwindCSS"],

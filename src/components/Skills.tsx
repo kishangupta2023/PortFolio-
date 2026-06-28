@@ -76,19 +76,19 @@ const Skills = () => {
               <div className="text-center md:text-left">
                 <h3 className="text-xl font-bold text-foreground mb-2">Competitive Programming</h3>
                 <p className="text-muted-foreground mb-4">
-                  Solved 200+ DSA problems across platforms
+                  Solved 700+ DSA problems across platforms
                 </p>
                 <div className="flex flex-wrap gap-4 justify-center md:justify-start">
                   <div className="text-center">
-                    <p className="text-2xl font-bold text-primary">1600+</p>
+                    <p className="text-2xl font-bold text-primary">1900+</p>
                     <p className="text-sm text-muted-foreground">LeetCode Rating</p>
                   </div>
                   <div className="text-center">
-                    <p className="text-2xl font-bold text-secondary">1400+</p>
+                    <p className="text-2xl font-bold text-secondary">1650+</p>
                     <p className="text-sm text-muted-foreground">CodeChef Rating</p>
                   </div>
                   <div className="text-center">
-                    <p className="text-2xl font-bold text-accent">Top 22%</p>
+                    <p className="text-2xl font-bold text-accent">Top 4%</p>
                     <p className="text-sm text-muted-foreground">Contest Rank</p>
                   </div>
                 </div>

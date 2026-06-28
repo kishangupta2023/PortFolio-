@@ -51,7 +51,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Location</p>
-                    <p className="text-foreground">Uttar Pradesh, India</p>
+                    <p className="text-foreground">Mau Uttar Pradesh, India</p>
                   </div>
                 </div>
               </div>
@@ -102,7 +102,7 @@ const Contact = () => {
                       Indian Institute of Information Technology, Ranchi
                     </p>
                     <p className="text-sm text-muted-foreground">
-                      CGPA: 8.93 | 2023-2027
+                      CGPA: 8.95 | 2023-2027
                     </p>
                   </div>
                 </div>
