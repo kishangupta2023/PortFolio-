@@ -23,7 +23,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-6 max-w-2xl">
-            Full-Stack Developer
+            Software Developer
           </p>
           
           <p className="text-base md:text-lg text-foreground/80 mb-8 max-w-3xl leading-relaxed">
@@ -36,7 +36,7 @@ const Hero = () => {
               <a href="#projects">View Projects</a>
             </Button>
             <Button variant="outline" size="lg" className="border-primary text-primary hover:bg-primary/10" asChild>
-              <a href="/Resume_Kishan_Gupta.docx" download>
+              <a href="/resume_kishangupta.pdf" download>
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume
               </a>
